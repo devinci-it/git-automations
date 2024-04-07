@@ -1,0 +1,22 @@
+#!/bin/bash
+
+######################################################################
+# Git Post-commit Hook Script
+#
+# Description:
+#   This script is a Git post-commit hook that is executed after a commit
+#   has been made. It can be used to perform actions or notifications
+#   after a successful commit.
+#
+# Usage:
+#   This script is automatically triggered after a commit has been made.
+#   It can be used to perform actions such as sending notifications or
+#   triggering builds.
+#
+# Author:
+#   devinci-it
+#
+# Date:
+#  2024
+#
+######################################################################

@@ -1,0 +1,24 @@
+
+#!/bin/bash
+
+######################################################################
+# Git Post-init Script
+#
+# Description:
+#   This script is executed after initializing a Git repository. It is
+#   typically used to set up the repository environment, such as configuring
+#   Git hooks, initializing submodules, or applying repository-specific settings.
+#
+# Usage:
+#   This script is automatically triggered after running the 'git init' command
+#   to initialize a new Git repository. It can be customized to perform various
+#   actions based on the requirements of the repository.
+#
+# Author:
+#   devinci-it
+#
+# Date:
+#   2024
+#
+######################################################################
+# $(git rev-parse --show-toplevel)/.git/hooks/custom-scripts/move-templates.sh

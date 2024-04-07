@@ -1,0 +1,21 @@
+#!/bin/bash
+
+######################################################################
+# Git Pre-commit Hook Script
+#
+# Description:
+#   This script is a Git pre-commit hook that is executed before creating
+#   a commit. It can be used to perform checks on the changes to be committed
+#   and optionally prevent the commit if certain conditions are not met.
+#
+# Usage:
+#   This script is automatically triggered before creating a commit. It can
+#   be used to run pre-commit checks or tests to ensure the quality of the commit.
+#
+# Author:
+#   [Your Name]
+#
+# Date:
+#   [Date]
+#
+######################################################################
