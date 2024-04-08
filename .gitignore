@@ -35,3 +35,5 @@ pip-wheel-metadata/
 # Dependencies
 node_modules/
 vendor/
+
+logs/

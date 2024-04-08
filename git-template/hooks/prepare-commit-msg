@@ -20,5 +20,4 @@
 #   [Date]
 #
 ######################################################################
-
 $(git rev-parse --show-toplevel)/.git/hooks/custom-scripts/append-changelog.sh
