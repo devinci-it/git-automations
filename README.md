@@ -42,10 +42,11 @@ All actions and errors during the configuration process are logged in the `logs/
 
 ## Future Enhancements
 - **Structured Alias Management**: Provide a more structured and easily manageable way for registering and managing aliases. This will simplify the process of adding, updating, and removing Git aliases, making the tool more user-friendly and efficient.
+
 - **Template Customization**: Allow users to customize the template files (`gitignore.template`, `README.template.md`) during the configuration process. This will enable users to define project-specific configurations and content for these files, enhancing the flexibility and usability of the tool.
 
 - **Interactive Configuration**: Develop an interactive configuration tool that guides users through the setup process, prompts for input, and provides feedback on the configuration steps. This will make the setup process more user-friendly and intuitive.
-- **Prokject Wiki**: Add a comprehensive wiki to the project. The wiki will serve as a central repository for all the documentation related to the project. It will include detailed explanations of the project's features, step-by-step guides, best practices, and tips for troubleshooting common issues. This will make it easier for both new and existing users to understand and use the project effectively.
+- **Project Wiki**: Add a comprehensive wiki to the project. The wiki will serve as a central repository for all the documentation related to the project. It will include detailed explanations of the project's features, step-by-step guides, best practices, and tips for troubleshooting common issues. This will make it easier for both new and existing users to understand and use the project effectively.
 
 ## Contribution
 
