@@ -40,7 +40,7 @@ All actions and errors during the configuration process are logged in the `logs/
 - Customize the scripts and configuration files according to your project's requirements.
 - Review and update the template files (`gitignore.template`, `README.template.md`) to match your project's needs.
 
-## Further Enhancements
+## Future Enhancements
 - **Structured Alias Management**: Provide a more structured and easily manageable way for registering and managing aliases. This will simplify the process of adding, updating, and removing Git aliases, making the tool more user-friendly and efficient.
 - **Template Customization**: Allow users to customize the template files (`gitignore.template`, `README.template.md`) during the configuration process. This will enable users to define project-specific configurations and content for these files, enhancing the flexibility and usability of the tool.
 
